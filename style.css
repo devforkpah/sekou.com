@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color: azure;
+
+}
+span{
+    color: blueviolet;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-fluid a:hover{
+    color: rgb(193, 127, 255);
+    
+}
+
+    
+
+.carousel-item{
+    width: 900px;
+    height: 700px;
+    margin-left: 13%;
+}
+.divclass1{
+    background-color: #3e798b;
+}
+.divclass1 h2{
+    color: lightgrey;
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 45%;
+}
+.divclass1 p{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 9%;
+
+}
+.mb-3{
+    width: 400px;
+    margin-left: 4%;
+    
+}
+.btnbtn-outline-primary{
+    margin-left: 12%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+
+
